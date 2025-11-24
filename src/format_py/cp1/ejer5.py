@@ -1,7 +1,8 @@
 import pandas as pd
 from collections import Counter
-import numpy as np
 import math
+
+from src.format_py.cp1.ejer4 import ProcesadorAvanzado
 
 
 class ModeloEspacioVectorialTFIDF:
