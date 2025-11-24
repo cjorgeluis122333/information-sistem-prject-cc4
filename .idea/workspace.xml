@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac96918-cb97-429b-8734-59a377784cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sistemas_inf_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    <list default="true" id="eac96918-cb97-429b-8734-59a377784cb5" name="Changes" comment="This project will use for resolve the exercise of Information Sistem">
       <change afterPath="$PROJECT_DIR$/src/ejer1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ejer2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ejer3.py" afterDir="false" />
@@ -109,12 +101,25 @@
       <option name="presentableId" value="Default" />
       <updated>1764003475866</updated>
       <workItem from="1764003485456" duration="3539000" />
-      <workItem from="1764008868508" duration="1349000" />
+      <workItem from="1764008868508" duration="1653000" />
     </task>
+    <task id="LOCAL-00001" summary="This project will use for resolve the exercise of Information Sistem">
+      <option name="closed" value="true" />
+      <created>1764010530924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764010530924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This project will use for resolve the exercise of Information Sistem" />
+    <option name="LAST_COMMIT_MESSAGE" value="This project will use for resolve the exercise of Information Sistem" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sistemas_inf_project$ejer1.coverage" NAME="ejer1 Coverage Results" MODIFIED="1764010054818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
