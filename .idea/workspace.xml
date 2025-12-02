@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac96918-cb97-429b-8734-59a377784cb5" name="Changes" comment="Up the exercise 4">
-      <change afterPath="$PROJECT_DIR$/src/cp1/ejer1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp1/ejer2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp1/ejer3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp1/ejer4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp1/ejer5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e.ipynb" afterDir="false" />
+    <list default="true" id="eac96918-cb97-429b-8734-59a377784cb5" name="Changes" comment="Cp1 finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,23 +35,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ejer1.executor": "Run",
-    "Python.ejer2.executor": "Run",
-    "Python.ejer5.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ejer1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejer5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMACION\Python\Escuela\sistemas_inf_project\sistemas_inf_project\src\format_py\cp1" />
+      <recent name="D:\PROGRAMACION\Python\Escuela\sistemas_inf_project\sistemas_inf_project\src\format_ipynb\cp1" />
+      <recent name="D:\PROGRAMACION\Python\Escuela\sistemas_inf_project\sistemas_inf_project\src\format_py" />
+      <recent name="D:\PROGRAMACION\Python\Escuela\sistemas_inf_project\sistemas_inf_project\src\format_ipynb" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ejer2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sistemas_inf_project" />
@@ -73,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ejer2.py" />
+      <option name="SCRIPT_NAME" value="D:\PROGRAMACION\Python\Escuela\sistemas_inf_project\sistemas_inf_project\src\format_py\cp1\ejer2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +106,10 @@
       <option name="presentableId" value="Default" />
       <updated>1764003475866</updated>
       <workItem from="1764003485456" duration="3539000" />
-      <workItem from="1764008868508" duration="2524000" />
+      <workItem from="1764008868508" duration="3771000" />
+      <workItem from="1764179627669" duration="66000" />
+      <workItem from="1764685484590" duration="45000" />
+      <workItem from="1764686201052" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="This project will use for resolve the exercise of Information Sistem">
       <option name="closed" value="true" />
@@ -154,7 +159,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764010782674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create a version of every exercise in jupiter">
+      <option name="closed" value="true" />
+      <created>1764012573531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764012573531</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Cp1 finish">
+      <option name="closed" value="true" />
+      <created>1764012603676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764012603676</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Cp1 finish">
+      <option name="closed" value="true" />
+      <created>1764012630945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764012630945</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,11 +195,13 @@
     <MESSAGE value="Up the exercise 2" />
     <MESSAGE value="Up the exercise 3" />
     <MESSAGE value="Up the exercise 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Up the exercise 4" />
+    <MESSAGE value="Create a version of every exercise in jupiter" />
+    <MESSAGE value="Cp1 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cp1 finish" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sistemas_inf_project$ejer1.coverage" NAME="ejer1 Coverage Results" MODIFIED="1764010054818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/sistemas_inf_project$ejer5.coverage" NAME="ejer5 Coverage Results" MODIFIED="1764010038427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/sistemas_inf_project$ejer5.coverage" NAME="ejer5 Coverage Results" MODIFIED="1764012005793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/sistemas_inf_project$ejer2.coverage" NAME="ejer2 Coverage Results" MODIFIED="1764010368535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
